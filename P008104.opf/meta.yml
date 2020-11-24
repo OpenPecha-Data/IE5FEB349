@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W6394
   title: གཙུག་ཏོར་དྲི་མེད་ལྷ་ལྔའི་སྒྲུབ་དཀྱིལ་སློབ་མ་རྗེས་འཛིན།
-  volume: ''
+  volume:
+    a2add505672643a0b3355e60e3101459:
+      image_group_id: I1KG9092
+      title: Volume 1 of gtsug tor dri med lha lnga'i sgrub dkyil slob ma rjes 'dzin
+      volume_number: 1
+      total_pages: 62
   author: ''
+ebook_metadata:
+  title: གཙུག་ཏོར་དྲི་མེད་ལྷ་ལྔའི་སྒྲུབ་དཀྱིལ་སློབ་མ་རྗེས་འཛིན།
+  author: ''
+  sku: P008104
+  cover: cover.jpg
+  layers:
+  - pagination
