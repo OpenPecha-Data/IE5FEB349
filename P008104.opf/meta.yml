@@ -5,11 +5,13 @@ source_metadata:
   title: གཙུག་ཏོར་དྲི་མེད་ལྷ་ལྔའི་སྒྲུབ་དཀྱིལ་སློབ་མ་རྗེས་འཛིན།
   author: ''
   volumes:
-    5c2982fcc5074863a0853378ef8f48a1:
+    a2add505672643a0b3355e60e3101459:
       image_group_id: I1KG9092
-      title: ''
+      title: Volume 1 of gtsug tor dri med lha lnga'i sgrub dkyil slob ma rjes 'dzin
       volume_number: 1
       total_pages: 62
+      basefile: v001.txt
+      base_file: v001.txt
 ebook_metadata:
   title: གཙུག་ཏོར་དྲི་མེད་ལྷ་ལྔའི་སྒྲུབ་དཀྱིལ་སློབ་མ་རྗེས་འཛིན།
   author: ''
